@@ -1,0 +1,126 @@
+.a{
+    width: 1510px;
+    height: 70px;
+    background-color: burlywood;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    text-decoration: none;
+    position: relative;
+    position: fixed;
+    
+}
+
+.a:link{
+    width: 115px;
+    height: 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    text-decoration: none;
+}
+
+img{
+    width: 1525px;
+    height: auto;
+}
+
+.tulisan{
+    color: black;
+}
+
+
+
+.home:link{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.home:visited{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+body{
+    margin: 0px;
+}
+
+.rgb{
+    color: white;
+    display: flex;
+    flex-flow: row;
+    padding-left: 70px;
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+.r{
+    color: white;
+    margin-left: 20px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.g{
+    color: white;
+    margin-left: 20px;
+    margin-right: 40px;
+    text-decoration: none;
+}
+
+.b{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+.dul{
+    font-size: 50px;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+    padding: 0px;
+}
+
+.red{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    text-align: justify;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+.tuy{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    text-align: justify;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.buy{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 0px;
+    text-align: justify;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.bawah{
+    width: 1530px;
+    height: 280px;
+    background-color: burlywood;
+}
+
